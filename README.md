@@ -9,6 +9,6 @@ Microrregião PCA -> USA PCA NÁ PRÁTICA PARA CÁLCULO DE PESOS PARA ÍNDICE DE
 
 Funcionamento: Método para identificação de Aglomerações Produtivas Locais 
 
-Dados usados: RAIS estabelecimentos, Setor de Indústria de Transformação, Indústria de Ar condicionado
+Dados usados: RAIS estabelecimentos, Setor de Indústria de Transformação, Indústria de Ar condicionado 
 
-Dados usados: Agrupados Geograficamente por Microrregião
+Dados usados: Agrupados Geograficamente por Microrregião do BRASIL  ==BR
