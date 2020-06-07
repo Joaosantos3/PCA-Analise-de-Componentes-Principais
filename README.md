@@ -11,4 +11,4 @@ Funcionamento: Método para identificação de Aglomerações Produtivas Locais
 
 Dados usados: RAIS estabelecimentos, Setor de Indústria de Transformação, Indústria de Ar condicionado
 
-Dados usados: Geograficamente por Microrregião
+Dados usados: Agrupados Geograficamente por Microrregião
